@@ -36,5 +36,4 @@ The system uses machine learning models trained on diverse datasets including so
 
 
 
-Auther
-Aakash sahu
+
